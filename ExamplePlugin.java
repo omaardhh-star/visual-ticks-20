@@ -20,7 +20,7 @@ import net.runelite.client.ui.overlay.OverlayPosition;
         name = "Visual Ticks 20",
         description = "Visual metronome de 20 ticks"
 )
-public class ExamplePlugin extends Plugin
+public class VisualTicksPlugin extends Plugin
 {
     private static final int TOTAL_TICKS = 20;
     private static final int DIFFERENT_COLOR_START = 15;
